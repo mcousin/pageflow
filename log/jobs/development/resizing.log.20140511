@@ -1,0 +1,48 @@
+# Logfile created on 2014-05-10 16:58:21 +0200 by logger.rb/44203
+I, [2014-05-10T16:58:21.125613 #35149]  INFO -- : Pageflow::ProcessImageFileJob - perform for Pageflow::ImageFile 11
+E, [2014-05-10T16:58:44.850066 #35149] ERROR -- : Pageflow::ProcessImageFileJob - exception for Pageflow::ImageFile 11: #<ActiveRecord::StatementInvalid: SQLite3::SQLException: cannot rollback - no transaction is active: rollback transaction>
+I, [2014-05-10T16:58:44.851398 #35149]  INFO -- : Pageflow::ProcessImageFileJob - result error for Pageflow::ImageFile 11
+I, [2014-05-10T16:59:34.909701 #35195]  INFO -- : Pageflow::ProcessImageFileJob - perform for Pageflow::ImageFile 11
+E, [2014-05-10T16:59:58.488359 #35195] ERROR -- : Pageflow::ProcessImageFileJob - exception for Pageflow::ImageFile 11: #<ActiveRecord::StatementInvalid: SQLite3::SQLException: cannot rollback - no transaction is active: rollback transaction>
+I, [2014-05-10T16:59:58.490041 #35195]  INFO -- : Pageflow::ProcessImageFileJob - result error for Pageflow::ImageFile 11
+I, [2014-05-10T17:00:18.532994 #35238]  INFO -- : Pageflow::ProcessImageFileJob - perform for Pageflow::ImageFile 11
+I, [2014-05-10T17:00:18.618208 #35238]  INFO -- : Pageflow::ProcessImageFileJob - Pageflow::ImageFile 11 not found. Skipping job.
+I, [2014-05-10T17:00:33.655772 #35242]  INFO -- : Pageflow::ProcessImageFileJob - perform for Pageflow::ImageFile 12
+E, [2014-05-10T17:00:57.063407 #35242] ERROR -- : Pageflow::ProcessImageFileJob - exception for Pageflow::ImageFile 12: #<ActiveRecord::StatementInvalid: SQLite3::SQLException: cannot rollback - no transaction is active: rollback transaction>
+I, [2014-05-10T17:00:57.065765 #35242]  INFO -- : Pageflow::ProcessImageFileJob - result error for Pageflow::ImageFile 12
+I, [2014-05-10T17:09:12.319196 #35410]  INFO -- : Pageflow::ProcessImageFileJob - perform for Pageflow::ImageFile 13
+E, [2014-05-10T17:09:30.151250 #35410] ERROR -- : Pageflow::ProcessImageFileJob - exception for Pageflow::ImageFile 13: #<ActiveRecord::StatementInvalid: SQLite3::SQLException: cannot rollback - no transaction is active: rollback transaction>
+I, [2014-05-10T17:09:30.151769 #35410]  INFO -- : Pageflow::ProcessImageFileJob - result error for Pageflow::ImageFile 13
+I, [2014-05-10T17:13:10.274825 #35506]  INFO -- : Pageflow::ProcessImageFileJob - perform for Pageflow::ImageFile 14
+E, [2014-05-10T17:13:46.132710 #35506] ERROR -- : Pageflow::ProcessImageFileJob - exception for Pageflow::ImageFile 14: #<ActiveRecord::StatementInvalid: SQLite3::SQLException: cannot rollback - no transaction is active: rollback transaction>
+I, [2014-05-10T17:13:46.133830 #35506]  INFO -- : Pageflow::ProcessImageFileJob - result error for Pageflow::ImageFile 14
+I, [2014-05-10T17:16:46.242094 #35584]  INFO -- : Pageflow::ProcessImageFileJob - perform for Pageflow::ImageFile 15
+E, [2014-05-10T17:17:01.075971 #35584] ERROR -- : Pageflow::ProcessImageFileJob - exception for Pageflow::ImageFile 15: #<ActiveRecord::StatementInvalid: SQLite3::SQLException: cannot rollback - no transaction is active: rollback transaction>
+I, [2014-05-10T17:17:01.077146 #35584]  INFO -- : Pageflow::ProcessImageFileJob - result error for Pageflow::ImageFile 15
+I, [2014-05-10T17:21:36.229206 #35674]  INFO -- : Pageflow::ProcessImageFileJob - perform for Pageflow::ImageFile 16
+E, [2014-05-10T17:22:09.957404 #35674] ERROR -- : Pageflow::ProcessImageFileJob - exception for Pageflow::ImageFile 16: #<ActiveRecord::StatementInvalid: SQLite3::SQLException: cannot rollback - no transaction is active: rollback transaction>
+I, [2014-05-10T17:22:09.959484 #35674]  INFO -- : Pageflow::ProcessImageFileJob - result error for Pageflow::ImageFile 16
+I, [2014-05-10T17:23:55.041175 #35753]  INFO -- : Pageflow::ProcessImageFileJob - perform for Pageflow::ImageFile 17
+E, [2014-05-10T17:24:10.487462 #35753] ERROR -- : Pageflow::ProcessImageFileJob - exception for Pageflow::ImageFile 17: #<ActiveRecord::StatementInvalid: SQLite3::SQLException: cannot rollback - no transaction is active: rollback transaction>
+I, [2014-05-10T17:24:10.489329 #35753]  INFO -- : Pageflow::ProcessImageFileJob - result error for Pageflow::ImageFile 17
+I, [2014-05-10T17:26:25.596887 #35832]  INFO -- : Pageflow::ProcessImageFileJob - perform for Pageflow::ImageFile 18
+E, [2014-05-10T17:26:38.512715 #35832] ERROR -- : Pageflow::ProcessImageFileJob - exception for Pageflow::ImageFile 18: #<ActiveRecord::StatementInvalid: SQLite3::SQLException: cannot rollback - no transaction is active: rollback transaction>
+I, [2014-05-10T17:26:38.516220 #35832]  INFO -- : Pageflow::ProcessImageFileJob - result error for Pageflow::ImageFile 18
+I, [2014-05-10T17:39:58.914311 #36005]  INFO -- : Pageflow::ProcessImageFileJob - perform for Pageflow::ImageFile 19
+E, [2014-05-10T17:40:13.584471 #36005] ERROR -- : Pageflow::ProcessImageFileJob - exception for Pageflow::ImageFile 19: #<ActiveRecord::StatementInvalid: SQLite3::SQLException: cannot rollback - no transaction is active: rollback transaction>
+I, [2014-05-10T17:40:13.586251 #36005]  INFO -- : Pageflow::ProcessImageFileJob - result error for Pageflow::ImageFile 19
+I, [2014-05-10T17:43:38.706940 #36087]  INFO -- : Pageflow::ProcessImageFileJob - perform for Pageflow::ImageFile 20
+E, [2014-05-10T17:43:51.647390 #36087] ERROR -- : Pageflow::ProcessImageFileJob - exception for Pageflow::ImageFile 20: #<ActiveRecord::StatementInvalid: SQLite3::SQLException: cannot rollback - no transaction is active: rollback transaction>
+I, [2014-05-10T17:43:51.649042 #36087]  INFO -- : Pageflow::ProcessImageFileJob - result error for Pageflow::ImageFile 20
+I, [2014-05-10T17:46:46.754254 #36164]  INFO -- : Pageflow::ProcessImageFileJob - perform for Pageflow::ImageFile 21
+E, [2014-05-10T17:47:05.779964 #36164] ERROR -- : Pageflow::ProcessImageFileJob - exception for Pageflow::ImageFile 21: #<ActiveRecord::StatementInvalid: SQLite3::SQLException: cannot rollback - no transaction is active: rollback transaction>
+I, [2014-05-10T17:47:05.781859 #36164]  INFO -- : Pageflow::ProcessImageFileJob - result error for Pageflow::ImageFile 21
+I, [2014-05-10T17:59:41.113404 #36251]  INFO -- : Pageflow::ProcessImageFileJob - perform for Pageflow::ImageFile 22
+E, [2014-05-10T18:00:08.840291 #36251] ERROR -- : Pageflow::ProcessImageFileJob - exception for Pageflow::ImageFile 22: #<ActiveRecord::StatementInvalid: SQLite3::SQLException: cannot rollback - no transaction is active: rollback transaction>
+I, [2014-05-10T18:00:08.841990 #36251]  INFO -- : Pageflow::ProcessImageFileJob - result error for Pageflow::ImageFile 22
+I, [2014-05-10T19:20:34.355762 #36423]  INFO -- : Pageflow::ProcessImageFileJob - perform for Pageflow::ImageFile 21
+E, [2014-05-10T19:21:01.248976 #36423] ERROR -- : Pageflow::ProcessImageFileJob - exception for Pageflow::ImageFile 21: #<ActiveRecord::StatementInvalid: SQLite3::SQLException: cannot rollback - no transaction is active: rollback transaction>
+I, [2014-05-10T19:21:01.250417 #36423]  INFO -- : Pageflow::ProcessImageFileJob - result error for Pageflow::ImageFile 21
+I, [2014-05-10T19:29:33.689191 #36606]  INFO -- : Pageflow::ProcessImageFileJob - perform for Pageflow::ImageFile 23
+E, [2014-05-10T19:30:02.475859 #36606] ERROR -- : Pageflow::ProcessImageFileJob - exception for Pageflow::ImageFile 23: #<ActiveRecord::StatementInvalid: SQLite3::SQLException: cannot rollback - no transaction is active: rollback transaction>
+I, [2014-05-10T19:30:02.477953 #36606]  INFO -- : Pageflow::ProcessImageFileJob - result error for Pageflow::ImageFile 23

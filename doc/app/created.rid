@@ -1,0 +1,7 @@
+Wed, 14 May 2014 23:33:23 +0200
+README.rdoc	Sat, 10 May 2014 13:19:52 +0200
+app/admin/dashboard.rb	Sat, 10 May 2014 13:41:31 +0200
+app/controllers/application_controller.rb	Sat, 10 May 2014 13:19:52 +0200
+app/helpers/application_helper.rb	Sat, 10 May 2014 13:19:52 +0200
+app/models/ability.rb	Sat, 10 May 2014 13:41:39 +0200
+app/models/user.rb	Sat, 10 May 2014 13:41:39 +0200
